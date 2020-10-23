@@ -1,0 +1,15 @@
+Project # 1 Final Submission:
+
+Deliverable:
+
+1.SRS
+	CharityBlackjackSRS.doc
+
+2.Demonstrated Working Application
+	SENG170_Project1forWindows.exe
+
+3.Code
+	SENG170_Project1.sln
+
+
+*** all listed items are found within same folder as this .txt document ***
